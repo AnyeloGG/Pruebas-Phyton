@@ -3,7 +3,7 @@ from io import StringIO
 import sys
 
 # Suponiendo que tu función está en un archivo llamado `code.py`
-from code import code_challenge_one
+from Python prueba import code_challenge_one
 
 def test_code_challenge_one(capfd):
     # Datos de prueba
